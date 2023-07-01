@@ -5,6 +5,10 @@
 In this project **"120 years of Olympic history"**, I used SQL queries to answer some fascinating questions about the Olympic games.
 The dataset contains historical data of the modern Olympic Games, from **Athens 1896 to Rio 2016**. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
 
+**Dataset Review**
+
+
+
 | ID | Name                | Sex | Age | Height | Weight | Team   | NOC | Games         | Year | Season | City       | Sport     | Event                            | Medal |
 |----|---------------------|-----|-----|--------|--------|--------|-----|---------------|------|--------|------------|-----------|----------------------------------|-------|
 | 1  | A Dijiang           | M   | 24  | 180    | 80     | China  | CHN | 1992 Summer   | 1992 | Summer | Barcelona  | Basketball | Basketball Men's Basketball      | NA    |
