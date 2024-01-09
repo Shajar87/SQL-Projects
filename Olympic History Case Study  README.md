@@ -5,6 +5,11 @@
 In this project **"120 years of Olympic history"**, I used SQL queries to answer some fascinating questions about the Olympic games.
 The dataset contains historical data of the modern Olympic Games, from **Athens 1896 to Rio 2016**. Each row corresponds to an individual athlete competing in an individual event, including the athlete's name, sex, age, height, weight, country, and medal, and the event's name, sport, games, year, and city.
 
+
+**🔗Queries PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf
+
+**🔗Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 **Dataset Review**
 
 
@@ -45,9 +50,3 @@ Used some of the common to advanced SQL concepts such as **joins, window functio
 | France         | 263        | 4    |
 | Germany        | 233        | 5    |
    
-
-
-
-**🔗Queries PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Olympic%20History%20Analysis.pdf
-
-**🔗Dataset Link:** https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
