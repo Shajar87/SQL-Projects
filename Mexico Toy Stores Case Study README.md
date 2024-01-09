@@ -5,6 +5,10 @@
 ---
 In this project **"Mexico Toy Stores Case Study"**, I used SQL queries to answer some of the fascinating questions about the sales of a fictitious chain of toy stores in Mexico.
 
+**🔗Queris PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf
+
+**🔗Dataset Link:** https://mavenanalytics.io/data-playground?search=mexico
+
 There were total 4 tables given in the project:
 
 1. Stores
@@ -43,7 +47,3 @@ etc.
 By finding the answers to the questions in the PDF, one can gain valuable insights into the toy market. Analyzing sales data and trends can
 provide a clear understanding of the market's dynamics.
 More details are in the Queries PDF.
-
-**🔗Queris PDF Link:** https://github.com/Shajar87/Project_Portfolio/blob/main/Mexico%20Toys'%20Stores%20Case%20Study.pdf
-
-**🔗Dataset Link:** https://mavenanalytics.io/data-playground?search=mexico
